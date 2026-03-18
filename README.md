@@ -111,7 +111,7 @@ Load a photo, adjust parameters, preview in real-time 3D, and export a ready-to-
 
 ### 🚀 Getting Started
 
-1. Visit the [live demo](https://fr33n0w.github.io/pixelsculpt/) 
+1. Visit the [live demo](https://fr33n0w.github.io/PixelSculpt/) 
 2. Open in any modern browser
 3. Drop a photo
 4. Click **Auto Optimize** or adjust parameters manually
@@ -229,7 +229,7 @@ Carica una foto, regola i parametri, visualizza l'anteprima 3D in tempo reale ed
 
 ### 🚀 Come Iniziare
 
-1. Visita la [demo live](https://fr33n0w.github.io/pixelsculpt/)
+1. Visita la [demo live](https://fr33n0w.github.io/PixelSculpt/)
 2. Apri in qualsiasi browser moderno
 3. Trascina una foto
 4. Clicca **Ottimizzazione Auto** o regola i parametri manualmente
